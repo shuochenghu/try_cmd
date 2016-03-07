@@ -1,0 +1,12 @@
+Network
+
+30:F7:C5:27:C4:88		
+00:EE:BD:A3:56:F9		
+80:E6:50:55:B7:22		
+D0:22:BE:CD:A4:EB		
+2C:F0:EE:30:83:98		
+60:FE:C5:6E:CE:0E   old ipad	
+78:92:9C:0D:B8:6D   ASUS NB
+d8:50:e6:79:6d:9b   nexus 7
+20:7C:8F:11:94:96   TSMC
+30:F7:C5:E9:89:AD   Grace's iPhone 
